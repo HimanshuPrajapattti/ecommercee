@@ -1,6 +1,4 @@
-import { useState, useMemo, useEffect, useRef } from "react";
-import Home from './Home';
-import Cart from './cart';
+import { useState, useMemo, useEffect } from "react";
 
 // ─── MOCK DATA ────────────────────────────────────────────────────────────────
 const PRODUCTS = [
